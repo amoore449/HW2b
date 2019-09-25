@@ -1,0 +1,56 @@
+/**Style for bandsheet**/
+heading {
+	display: block;
+	background-color: #DD7230;
+	padding:20px;
+	background-clip:padding-box;
+	text-align: center;
+	margin: 20px 18px;
+	margin-left: 380px;
+	margin-right: 380px;
+	font-size: 30px;
+	font-family: Verdana, Helvetica, "Times New Roman";
+	border-radius: 50%;
+
+}
+setlist {
+	display: block;
+	margin: 8px 8px;
+	content: "MIKA Setlist";
+	text-align: center;
+	background-color: #F4C95D;
+	color: #2E1F27;
+	
+}
+song {
+	font-family: Garamond, helvetica, "Times New Roman";
+	display: block;
+
+}
+song2 {
+	font-family: Garamond, helvetica, "Times New Roman";
+	display: block;
+}
+be {
+ display: block;
+ margin: 8px 8px;
+}
+stitle {
+	display: block;
+font-size: 20px;
+display: block;
+font-weight: bold;
+}
+
+genre{
+display: inline;
+}
+
+artist {
+display: inline-block;
+font-style: italic;
+}
+
+year {
+display: inline;
+}

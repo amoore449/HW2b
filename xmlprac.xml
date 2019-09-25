@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xmlstyle.css"?>
+<setlist>
+	<heading>MIKA Concert Setlist 
+	<be></be>
+	<be></be>
+	</heading>
+	<song>
+	    <stitle>Tomorrow</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2019 <br/></year_rel>
+	</song>
+	<be></be>
+	<song2>
+	    <stitle>Stuck in The Middle</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2007</year_rel>
+	</song2>
+	<be></be>
+	<song>
+	    <stitle>
+	    	Tiny Love</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2019</year_rel>
+	</song>
+	<be></be>
+	<song2>
+	    <stitle>Big Girl(You are Beautiful)</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2007</year_rel>
+	</song2>
+<be></be>
+	<song>
+	    <stitle>Sanremo</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2019</year_rel>
+	</song>
+		 <be></be>
+	<song2>
+	    <stitle>Ice Cream</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2019</year_rel>
+	</song2>
+	 <be></be>
+	<song>
+	    <stitle>Oh Girl You're the Devil</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2015</year_rel>
+	</song>
+		 <be></be>
+	<song2>
+	    <stitle>Lola</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2012</year_rel>
+	</song2>
+	 <be></be>
+	<song>
+	    <stitle>Blame it on the Girls</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2009</year_rel>
+	</song>
+		 <be></be>
+	<song2>
+	    <stitle>No Place in Heaven</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2015</year_rel>
+	</song2>
+	 <be></be>
+	<song>
+	    <stitle>Grace Kelly</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2007</year_rel>
+	</song>
+		 <be></be>
+	<song2>
+	    <stitle>Lollipop</stitle>
+	    <artist>MIKA</artist>
+	    <genre>Pop</genre>
+	    <year_rel>2007</year_rel>
+	</song2>
+	 <be></be>
+</setlist>
